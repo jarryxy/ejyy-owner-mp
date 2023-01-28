@@ -13,7 +13,7 @@
 
 本项目使用ui框架：
 
-<h1 align="center">CW UI</h1>
+<div align="center" style="font-weight:bold;font-size:28px">CW UI</div>
 
 <p align="center">兼容uniapp、微信小程序的轻量移动端 Vue 组件库</p>
 
@@ -26,7 +26,6 @@
   🌵<a href="https://gitee.com/jarryxy/cw-ui">CW UI [Gitee]</a>&nbsp;
   🌟<a href="https://github.com/jarryxy/cw-ui">CW UI [GitHub]</a>
 </p>
-
 ## 部署
 
 在`HbuilderX`中选中从Git导入，填入本项目地址。
