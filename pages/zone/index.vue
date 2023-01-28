@@ -215,7 +215,8 @@ export default {
 	height: 114px;
 	// #endif
 	// #ifndef H5
-	height: 70px;
+	// height: 70px;
+	height: 114px;
 	// #endif
 }
 .header-wrapper {
